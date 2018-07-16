@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tombout/node-restify-sample/issues"
   },
-  "homepage": "https://github.com/tombout/node-restify-sample#readme"
+  "homepage": "https://github.com/tombout/node-restify-sample#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
 }
