@@ -22,7 +22,8 @@
   "homepage": "https://github.com/tombout/node-restify-sample#readme",
   "dependencies": {
     "bunyan": "^1.8.12",
-    "restify": "^7.2.1"
+    "restify": "^7.2.1",
+    "restify-swagger-jsdoc": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
