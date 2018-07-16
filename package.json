@@ -1,0 +1,22 @@
+{
+  "name": "node-restify-sample",
+  "version": "1.0.0",
+  "description": "A sample Restify 7.x service with versioned routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombout/node-restify-sample.git"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "Thomas Schmitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tombout/node-restify-sample/issues"
+  },
+  "homepage": "https://github.com/tombout/node-restify-sample#readme"
+}
